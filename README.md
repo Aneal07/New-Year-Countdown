@@ -1,5 +1,7 @@
 # New-Year-Countdown
 
+[Live site](https://aneal07.github.io/New-Year-Countdown/)
+
 Welcome to the New Year Countdown project! This project is a simple JavaScript application that displays a countdown to the next New Year's Eve.
 
 ## Features
